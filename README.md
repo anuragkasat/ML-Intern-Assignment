@@ -10,3 +10,5 @@ Retrieving the top 5 URLs and their content.
 Generating answers using embeddings or an LLM like Google's Gemini API.
 Current Status
 Due to an issue with Gemini API credits, this feature is not fully implemented. Integration will resume once credits are available or an alternative embedding service is identified.
+
+also wanted to implement hybrid mode but still it depends on api credits
